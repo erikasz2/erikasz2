@@ -1,11 +1,12 @@
-<h1>&#128075; Olá, eu sou o Rafa !</h1>
+<h1>&#128075; Olá, eu sou a erika !</h1>
 
 <h3>Sobre mim:</h3>
 <ul>
-    <li>Professor de Programação 💡</li>
-    <li>Programador Front End 💻</li>
-    <li>Apaixonado por Arte e Design 🖌</li>
-    <li>Formado em Banco de Dados 🗄</li>
+    <li>humildade acima de tudo! </li>
+    <li>god is good </li>
+    <li>apaixonado por degree and art </li>
+    <li>cursando Programação</li>
+    <li>
 </ul>
     
 ##
